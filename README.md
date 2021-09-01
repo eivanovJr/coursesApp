@@ -1,1 +1,1 @@
-# coursesApp
+# Course Platform backend project
